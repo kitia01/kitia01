@@ -1,6 +1,6 @@
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
+![Modern Java template][github-sub-title:img]
 
 [![CSDN](https://img.shields.io/badge/CSDN-kitia01-yello)](https://blog.csdn.net/kitia01)
 [![Gitee](https://img.shields.io/badge/Gitee-Vee1nk-red)](https://gitee.com/vee1nk)
