@@ -7,7 +7,7 @@
 
 [![Java](https://img.shields.io/badge/Code-Java-blue)](https://dev.java) 
 ![](https://img.shields.io/badge/Hate-What%20to%20Eat-yellow) 
-![](https://img.shields.io/badge/Mood-Like%20A%20Lonng-red) 
+![](https://img.shields.io/badge/Mood-Like%20a%20Lonng-red) 
 ![](https://img.shields.io/badge/Fav-New%20Things-red)
 
 </div>
