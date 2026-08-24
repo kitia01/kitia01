@@ -1,6 +1,11 @@
 <div id="title" align=center>
 
 ![Modern Java template][github-sub-title:img]
+---
+Ciallo～(∠・ω< )⌒☆
+
+[![kitia01's GitHub stats](https://github-stats-extended.vercel.app/api?username=kitia01&show_icons=true&theme=transparent&hide_border=true&locale=en)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kitia01&show_icons=true&theme=transparent&hide_border=true&locale=en)](https://github.com/stats-organization/github-stats-extended)
 
 [![CSDN](https://img.shields.io/badge/CSDN-kitia01-yello)](https://blog.csdn.net/kitia01)
 [![Gitee](https://img.shields.io/badge/Gitee-Vee1nk-red)](https://gitee.com/vee1nk)
